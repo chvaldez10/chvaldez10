@@ -1,6 +1,6 @@
 ### Hi there 👋🌟
 
-🎓 I graduated with dual degrees from the University of Calgary's Schulich School of Engineering, earning aa Master of Engineering in Software and a Bachelor of Science in Electrical Engineering. I currently work as a Software Quality Assurance Analyst at Showpass 🎟️. 💡 Passionate about creativity and product development, I excel in collaborative environments where I can learn from others. In my projects, I emphasize a test-driven 🔄 approach and focus on crafting user-centered products. 🎨
+🎓 I graduated with dual degrees from the University of Calgary's Schulich School of Engineering, earning a Master of Engineering in Software and a Bachelor of Science in Electrical Engineering. I currently work as a Software Quality Assurance Analyst at Showpass 🎟️. 💡 Passionate about creativity and product development, I excel in collaborative environments where I can learn from others. In my projects, I emphasize a test-driven 🔄 approach and focus on crafting user-centered products. 🎨
 
 What I'm up to:
 
